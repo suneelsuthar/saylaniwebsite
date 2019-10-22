@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text&display=swap');
+.navBar{
+    background: #f7f8fa !important;
+}
+#nav{
+    margin-left: 40%;
+}
+@media only screen and (max-width: 360px) {
+    #nav{
+        margin-left: 1%;
+    }
+}
+.navbar-color{
+    color: #316dc3 !important;
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.toggler{
+    background-color: #316dc3 !important;
+}

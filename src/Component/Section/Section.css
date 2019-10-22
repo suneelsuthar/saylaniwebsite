@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text&display=swap');
+
+
+.number-block {
+    text-align: center;
+}
+.bg-boxshadow {
+    box-shadow: 0px 4px 16px 3px rgba(213, 221, 234, .5);
+}
+.outline {
+    border: 1px solid #e6e6e6;
+}
+
+.bg-white {
+    background-color: #fcfcfc;
+}
+.mb60 {
+    margin-bottom: 60px;
+}
+.circle {
+    background-color: #fff;
+    width: 60px;
+    height: 60px;
+    color: #3a3a3a !important;
+    border: 1px solid #ccc !important;
+    border-radius: 100px;
+    color: #15549a;
+    margin: -70px auto 25px auto;
+    padding: 10px;
+    text-align: center;
+    line-height: 1.7;
+}
+.number {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Lobster', cursive;
+}
+.number-title {
+    margin-bottom: 20px;
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    font-weight: bolder !important;
+}
+h3 {
+    font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0px 0px 10px 0px;
+    color: #3a3a3a;
+    font-weight: 500;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    line-height: 1.6;
+    font-weight: 300;
+    margin-inline-end: 0px;
+}
